@@ -40,7 +40,7 @@
 <table style="width:100%;">
   <tr>
     <td style = "text-align:center">
-        <img src="https://thumbs.gfycat.com/BrilliantAlarmedDowitcher.webp" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
     </td>
   </tr>
 </table>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tien Hung</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
+<h3 align="center">Web developer</h3>
 
 
 - ✍ I'm a student of: [Bach Khoa Da Nang University of Technology and Education]
@@ -39,10 +39,8 @@
 
 <table style="width:100%;">
   <tr>
-    <td>
-      <p text-align="center"> 
+    <td style = "text-align:center">
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
     </td>
   </tr>
 </table>

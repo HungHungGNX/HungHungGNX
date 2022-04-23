@@ -32,7 +32,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/nolan/48/000000/java-coffee-cup-logo.png"/>
-   <img src="https://img.icons8.com/nolan/2x/html-5.png"/>
+   <img src="https://img.icons8.com/nolan/48/html-5.png"/>
 </p>
 
 <table style="width:100%;">

@@ -40,7 +40,7 @@
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
     </td>
       <td style = "text-align:center">
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1979827/screenshots/16163521/media/a03da1cf1fc19e4f6aca69868f6b082f.png?compress=1&resize=1200x900&vertical=top" alt="dev" width="100%"/>
     </td>
   </tr>
 </table>

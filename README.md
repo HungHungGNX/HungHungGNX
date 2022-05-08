@@ -3,7 +3,7 @@
 <h3 align="center">Web developer</h3>
 
 
-- ✍ I'm a student of: [Bach Khoa Da Nang University of Technology and Education]
+- ✍ I'm a student of: [Danang University of Science and Technology]
 
 ## 📫 How to reach me:
 
